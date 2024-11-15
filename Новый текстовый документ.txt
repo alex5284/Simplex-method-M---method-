@@ -1,0 +1,23 @@
+
+                        //if(num_N.Count == 1)
+                        //{
+                        //    for (int i = 0; i < F.Count + 1; i++)
+                        //    {
+                        //        if (i == 0)
+                        //        {
+                        //            deltaM.Add(P0[num_N[0]] * sign);
+                        //        }
+                        //        else
+                        //        {
+                        //            deltaM.Add(X_i[i - 1][num_N[0]] * sign);
+                        //        }
+                        //    }
+
+                        //    for(int i = 0; i < index.Count; i++)
+                        //    {
+                        //        deltaM[index[i] + 1] = 0;
+                        //    }
+                        //}
+                        //else
+                        //{
+                        //}
